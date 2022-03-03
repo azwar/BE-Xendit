@@ -1,0 +1,5 @@
+{
+  "name": "Server Test",
+  "DATABASE_URL": "postgresql://postgres:secret@localhost:5432/xendit?schema=public",
+  "port": 3000
+}
